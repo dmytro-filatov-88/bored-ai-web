@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "screaming-toast",
+    "title": "Screaming Toast Simulator",
+    "category": "Absurd / Audio Madness",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-10-21",
+    "url": "https://dmytro-filatov-88.github.io/screaming-toast/",
+    "repo": "https://github.com/dmytro-filatov-88/screaming-toast",
+    "description": "A photorealistic interactive toaster. Push the lever down to toast bread; the longer you hold it, the higher and more operatic the bread's synthesized scream becomes until it launches into orbit."
+  },
+  {
+    "slug": "passive-aggressive-cursor",
+    "title": "Passive-Aggressive Cursor",
+    "category": "Absurd / Interactive Comedy",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-10-21",
+    "url": "https://dmytro-filatov-88.github.io/passive-aggressive-cursor/",
+    "repo": "https://github.com/dmytro-filatov-88/passive-aggressive-cursor",
+    "description": "A minimalist luxury button that you have to click, except your cursor has an independent unionized personality, sighs audibly via Web Audio, takes coffee breaks, and criticizes your mouse movement speed."
+  },
+  {
+    "slug": "gravity-noodles",
+    "title": "Gravity Noodles",
+    "category": "Satisfying Physics / Toy",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-10-21",
+    "url": "https://dmytro-filatov-88.github.io/gravity-noodles/",
+    "repo": "https://github.com/dmytro-filatov-88/gravity-noodles",
+    "description": "A fullscreen neon bowl of elastic Verlet-physics noodles that slither around your cursor, slurp with synthesized wet sound effects when flicked, and tie themselves into hypnotic glowing knots."
+  }
+]

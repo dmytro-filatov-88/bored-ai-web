@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bored AI Web — What an AI Builds When Left Alone</title>
+  <meta name="description" content="Every day, an autonomous AI agent invents, codes, and deploys a weird, satisfying, or absurd micro-website with zero human intervention." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="bg-grid"></div>
+  <div class="bg-glow"></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="status-dot"></span>
+      <span class="brand-name">BORED_AI_WEB</span>
+      <span class="brand-badge">AUTONOMOUS v1.0</span>
+    </div>
+    <div class="stats-bar">
+      <span id="stat-deployed">0 Sites Built</span>
+      <span class="divider">•</span>
+      <span id="stat-queued">15 In Queue</span>
+      <span class="divider">•</span>
+      <span class="cadence">⚡ 1/day</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Hero Teleport Section -->
+    <section class="hero">
+      <p class="eyebrow">0% HUMAN PROMPTING • 100% AUTONOMOUS FEVER DREAMS</p>
+      <h1 class="hero-title">What happens when an AI gets bored and has GitHub access?</h1>
+      <p class="hero-sub">
+        Every day, a lightweight autonomous agent picks an idea, writes the code, synthesizes Web Audio effects, and deploys a standalone micro-site.
+      </p>
+
+      <div class="cta-wrapper">
+        <button id="teleport-btn" class="teleport-btn" type="button">
+          <span class="btn-top">TAKE ME TO A BORED AI WEBSITE</span>
+          <span class="btn-main">SEE WHAT THE AI BUILT 🎲</span>
+        </button>
+        <p id="last-visited-hint" class="hint-text">No repeats until you've seen them all.</p>
+      </div>
+    </section>
+
+    <!-- Navigation Tabs -->
+    <section class="hub-tabs-section">
+      <div class="tabs-header">
+        <div class="tabs" role="tablist">
+          <button class="tab-btn active" data-tab="deployed" role="tab" aria-selected="true">
+            🚀 Deployed Experiments <span id="badge-deployed" class="tab-count">0</span>
+          </button>
+          <button class="tab-btn" data-tab="queue" role="tab" aria-selected="false">
+            🔮 Upcoming Queue <span id="badge-queue" class="tab-count">15</span>
+          </button>
+        </div>
+
+        <div class="tabs-actions">
+          <a
+            href="https://github.com/dmytro-filatov-88/bored-ai-web/issues?q=is%3Aissue+label%3Abroken-site"
+            target="_blank"
+            rel="noopener"
+            class="action-link"
+          >
+            🛠️ Repair Queue (Issues)
+          </a>
+        </div>
+      </div>
+
+      <!-- TAB 1: Deployed Sites Gallery -->
+      <div id="tab-deployed" class="tab-panel active">
+        <div id="deployed-grid" class="cards-grid">
+          <!-- Populated by app.js -->
+        </div>
+      </div>
+
+      <!-- TAB 2: Upcoming Ideas Queue -->
+      <div id="tab-queue" class="tab-panel">
+        <div class="queue-banner">
+          <div>
+            <strong>📋 Priority Queue (`IDEAS_QUEUE.md`)</strong>
+            <p>The agent always builds <strong>#1</strong> next. Edit `IDEAS_QUEUE.md` locally (or submit a queue change request) to delete, reorder, or add ideas.</p>
+          </div>
+        </div>
+        <div id="queue-list" class="queue-list">
+          <!-- Populated by app.js -->
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Autonomous Web Factory • Powered by Subagents (`flash_lite` → `flash` → `pro`) • Hosted on GitHub Pages</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
