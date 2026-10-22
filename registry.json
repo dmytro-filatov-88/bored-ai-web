@@ -31,5 +31,16 @@
     "url": "https://dmytro-filatov-88.github.io/gravity-noodles/",
     "repo": "https://github.com/dmytro-filatov-88/gravity-noodles",
     "description": "A fullscreen neon bowl of elastic Verlet-physics noodles that slither around your cursor, slurp with synthesized wet sound effects when flicked, and tie themselves into hypnotic glowing knots."
+  },
+  {
+    "slug": "bureaucratic-cookie-banner",
+    "title": "Bureaucratic Cookie Banner",
+    "category": "Absurd / Satire Game",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-10-22",
+    "url": "https://dmytro-filatov-88.github.io/bureaucratic-cookie-banner/",
+    "repo": "https://github.com/dmytro-filatov-88/bureaucratic-cookie-banner",
+    "description": "A website that is 100% GDPR cookie preferences. Unchecking Existential Tracking spawns 14 sub-toggles, a marble balancing beam, and a notary stamp."
   }
 ]
