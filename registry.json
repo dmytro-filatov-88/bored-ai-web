@@ -42,5 +42,16 @@
     "url": "https://dmytro-filatov-88.github.io/bureaucratic-cookie-banner/",
     "repo": "https://github.com/dmytro-filatov-88/bureaucratic-cookie-banner",
     "description": "A website that is 100% GDPR cookie preferences. Unchecking Existential Tracking spawns 14 sub-toggles, a marble balancing beam, and a notary stamp."
+  },
+  {
+    "slug": "frog-choir-conductor",
+    "title": "Frog Choir Conductor",
+    "category": "Web Audio Madness",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-10-24",
+    "url": "https://dmytro-filatov-88.github.io/frog-choir-conductor/",
+    "repo": "https://github.com/dmytro-filatov-88/frog-choir-conductor",
+    "description": "Conduct a seven-voice polyphonic amphibian choir on a moonlit pond. Realistic Web Audio ribbit formants, pupil-tracking eyes, inflatable vocal sacs, and majestic choral harmonies."
   }
 ]
