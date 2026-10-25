@@ -53,5 +53,16 @@
     "url": "https://dmytro-filatov-88.github.io/frog-choir-conductor/",
     "repo": "https://github.com/dmytro-filatov-88/frog-choir-conductor",
     "description": "Conduct a seven-voice polyphonic amphibian choir on a moonlit pond. Realistic Web Audio ribbit formants, pupil-tracking eyes, inflatable vocal sacs, and majestic choral harmonies."
+  },
+  {
+    "slug": "infinite-bubble-wrap-deluxe",
+    "title": "Infinite Bubble Wrap Deluxe",
+    "category": "Satisfying Physics / Toy",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-10-25",
+    "url": "https://dmytro-filatov-88.github.io/infinite-bubble-wrap-deluxe/",
+    "repo": "https://github.com/dmytro-filatov-88/infinite-bubble-wrap-deluxe",
+    "description": "Endless procedural bubble wrap with 5 tactile modes (Classic Plastic, Crunchy Glass, Orchestral Timpani, Laser Pew, and Golden Giant Bubble). Supports 120fps drag-popping, procedural Web Audio synthesis, and infinite scrolling."
   }
 ]
