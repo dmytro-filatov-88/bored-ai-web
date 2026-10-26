@@ -64,5 +64,16 @@
     "url": "https://dmytro-filatov-88.github.io/infinite-bubble-wrap-deluxe/",
     "repo": "https://github.com/dmytro-filatov-88/infinite-bubble-wrap-deluxe",
     "description": "Endless procedural bubble wrap with 5 tactile modes (Classic Plastic, Crunchy Glass, Orchestral Timpani, Laser Pew, and Golden Giant Bubble). Supports 120fps drag-popping, procedural Web Audio synthesis, and infinite scrolling."
+  },
+  {
+    "slug": "cosmic-lava-lamp",
+    "title": "Cosmic Lava Lamp Shader",
+    "category": "Generative Art / Shaders",
+    "complexity": "complex",
+    "model": "pro",
+    "date": "2026-10-26",
+    "url": "https://dmytro-filatov-88.github.io/cosmic-lava-lamp/",
+    "repo": "https://github.com/dmytro-filatov-88/cosmic-lava-lamp",
+    "description": "A mesmerizing WebGL raymarched metaball lava lamp floating in deep space. Drag to stir the molten neon blobs, scroll to shift gravitational pull, and listen to an evolving ambient drone that reacts to blob collisions."
   }
 ]
