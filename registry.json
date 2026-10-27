@@ -75,5 +75,16 @@
     "url": "https://dmytro-filatov-88.github.io/cosmic-lava-lamp/",
     "repo": "https://github.com/dmytro-filatov-88/cosmic-lava-lamp",
     "description": "A mesmerizing WebGL raymarched metaball lava lamp floating in deep space. Drag to stir the molten neon blobs, scroll to shift gravitational pull, and listen to an evolving ambient drone that reacts to blob collisions."
+  },
+  {
+    "slug": "daily-standup-alibi",
+    "title": "Excuse Generator 3000",
+    "category": "Quirky Micro-Utility",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-10-27",
+    "url": "https://dmytro-filatov-88.github.io/daily-standup-alibi/",
+    "repo": "https://github.com/dmytro-filatov-88/daily-standup-alibi",
+    "description": "A retro slot-machine terminal that spins three mechanical reels (Technical Jargon, Blame Target, Confidence Multiplier) to generate bulletproof excuses for why your ticket isn't done yet, complete with mechanical clunks, suspicion meter, and dot-matrix receipt printouts."
   }
 ]

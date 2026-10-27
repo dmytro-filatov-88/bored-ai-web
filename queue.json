@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Excuse Generator 3000",
-    "slug": "daily-standup-alibi",
-    "category": "Quirky Micro-Utility",
-    "complexity": "simple",
-    "description": "A retro slot-machine terminal that spins three mechanical reels (\"Technical Jargon\", \"Blame Target\", \"Confidence Multiplier\") to generate bulletproof excuses for why your ticket isn't done yet, complete with mechanical clunks."
-  },
-  {
-    "rank": 2,
     "title": "Pet The Pixel Boulder",
     "slug": "pet-the-boulder",
     "category": "Absurd / Zen Toy",
@@ -16,7 +8,7 @@
     "description": "A solemn, mossy boulder sitting in the rain. Rubbing it with your mouse fills an affection meter by 0.001% per stroke, emits soothing purring sub-bass frequencies, and occasionally unlocks deep geological thoughts."
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "Bouncing DVD Logo Anxiety",
     "slug": "dvd-corner-anxiety",
     "category": "Absurd / Arcade Toy",
@@ -24,7 +16,7 @@
     "description": "Watch the classic bouncing logo approach the corner while dramatic orchestral tension builds. You can subtly tilt the screen by 1 degree to help it hit the exact pixel corner—or miss by 1px to trigger a sad trombone."
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Jelly Typewriter",
     "slug": "jelly-typewriter",
     "category": "Satisfying Physics / Toy",
@@ -32,7 +24,7 @@
     "description": "Every key you press on your keyboard drops a squishy, soft-body physics letter from the sky that bounces, wobbles like gelatin, and sings its own musical pitch when colliding with other letters."
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Dramatic Pasta Timer",
     "slug": "dramatic-pasta-timer",
     "category": "Quirky Micro-Utility",
@@ -40,7 +32,7 @@
     "description": "Select your pasta shape (Spaghetti, Penne, Farfalle) and start a real countdown timer treated like a nuclear launch sequence with Italian opera stabs, boiling particle physics, and an emergency \"AL DENTE!\" siren."
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Black Hole Desk Cleaner",
     "slug": "black-hole-desk-cleaner",
     "category": "Satisfying Physics / Toy",
@@ -48,7 +40,7 @@
     "description": "A cluttered virtual desktop full of sticky notes, folders, error popups, and coffee mugs. Control a hungry miniature black hole with your cursor that warps light and sucks everything in with satisfying crunch/whoosh audio."
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "Bioluminescent Deep Sea",
     "slug": "bioluminescent-abyss",
     "category": "Generative Art / Shaders",
@@ -56,7 +48,7 @@
     "description": "Dive into a pitch-black ocean where moving your cursor emits sonar pulses that illuminate procedural glowing jellyfish, procedural tentacle creatures, and shimmering plankton trails with underwater ambient reverb."
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Elevator Small Talk Simulator",
     "slug": "elevator-small-talk",
     "category": "Absurd / Interactive Comedy",
@@ -64,7 +56,7 @@
     "description": "You are trapped on a 99-floor elevator ride with an awkward procedural NPC and cheesy bossa nova muzak. Choose where to look (floor numbers, shoes, ceiling) to keep the \"Awkwardness Meter\" from exploding."
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Schrödinger's Cat Petting Zoo",
     "slug": "schrodingers-petting-zoo",
     "category": "Absurd / Quantum Toy",
@@ -72,7 +64,7 @@
     "description": "A virtual pet box where the cat is simultaneously purring, hissing, glowing radioactive green, and sleeping until you click to observe its quantum state, complete with Geiger counter clicks and tiny quantum hazards."
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Infinite Velvet Rope VIP",
     "slug": "infinite-velvet-rope",
     "category": "Absurd / Satire Game",
@@ -80,7 +72,7 @@
     "description": "You play as an overly strict bouncer at an empty club. Click to let VIPs in or reject them based entirely on whether their imaginary sneaker brand matches the daily lunar cycle, gaining status points for sheer pretentiousness."
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "Procedural Cactus Hugger",
     "slug": "procedural-cactus-hugger",
     "category": "Satisfying Physics / Zen Toy",
