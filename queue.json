@@ -1,30 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Pet The Pixel Boulder",
-    "slug": "pet-the-boulder",
-    "category": "Absurd / Zen Toy",
-    "complexity": "simple",
-    "description": "A solemn, mossy boulder sitting in the rain. Rubbing it with your mouse fills an affection meter by 0.001% per stroke, emits soothing purring sub-bass frequencies, and occasionally unlocks deep geological thoughts."
-  },
-  {
-    "rank": 2,
-    "title": "Bouncing DVD Logo Anxiety",
-    "slug": "dvd-corner-anxiety",
-    "category": "Absurd / Arcade Toy",
-    "complexity": "simple",
-    "description": "Watch the classic bouncing logo approach the corner while dramatic orchestral tension builds. You can subtly tilt the screen by 1 degree to help it hit the exact pixel corner—or miss by 1px to trigger a sad trombone."
-  },
-  {
-    "rank": 3,
-    "title": "Jelly Typewriter",
-    "slug": "jelly-typewriter",
-    "category": "Satisfying Physics / Toy",
-    "complexity": "medium",
-    "description": "Every key you press on your keyboard drops a squishy, soft-body physics letter from the sky that bounces, wobbles like gelatin, and sings its own musical pitch when colliding with other letters."
-  },
-  {
-    "rank": 4,
     "title": "Dramatic Pasta Timer",
     "slug": "dramatic-pasta-timer",
     "category": "Quirky Micro-Utility",
@@ -32,23 +8,7 @@
     "description": "Select your pasta shape (Spaghetti, Penne, Farfalle) and start a real countdown timer treated like a nuclear launch sequence with Italian opera stabs, boiling particle physics, and an emergency \"AL DENTE!\" siren."
   },
   {
-    "rank": 5,
-    "title": "Black Hole Desk Cleaner",
-    "slug": "black-hole-desk-cleaner",
-    "category": "Satisfying Physics / Toy",
-    "complexity": "medium",
-    "description": "A cluttered virtual desktop full of sticky notes, folders, error popups, and coffee mugs. Control a hungry miniature black hole with your cursor that warps light and sucks everything in with satisfying crunch/whoosh audio."
-  },
-  {
-    "rank": 6,
-    "title": "Bioluminescent Deep Sea",
-    "slug": "bioluminescent-abyss",
-    "category": "Generative Art / Shaders",
-    "complexity": "complex",
-    "description": "Dive into a pitch-black ocean where moving your cursor emits sonar pulses that illuminate procedural glowing jellyfish, procedural tentacle creatures, and shimmering plankton trails with underwater ambient reverb."
-  },
-  {
-    "rank": 7,
+    "rank": 2,
     "title": "Elevator Small Talk Simulator",
     "slug": "elevator-small-talk",
     "category": "Absurd / Interactive Comedy",
@@ -56,27 +16,107 @@
     "description": "You are trapped on a 99-floor elevator ride with an awkward procedural NPC and cheesy bossa nova muzak. Choose where to look (floor numbers, shoes, ceiling) to keep the \"Awkwardness Meter\" from exploding."
   },
   {
-    "rank": 8,
-    "title": "Schrödinger's Cat Petting Zoo",
-    "slug": "schrodingers-petting-zoo",
-    "category": "Absurd / Quantum Toy",
+    "rank": 3,
+    "title": "Awkward Staring Contest",
+    "slug": "awkward-staring-contest",
+    "category": "Absurd / Interactive Comedy",
+    "complexity": "simple",
+    "description": "A hyper-detailed vector face with twitching procedural eyes stares unblinkingly into your soul. If your cursor drifts away, remains motionless for too long, or you blink (via timed spacebar presses), you lose. Features escalating dramatic violin dissonance and heavy breathing."
+  },
+  {
+    "rank": 4,
+    "title": "The Impossible Spirit Level",
+    "slug": "impossible-spirit-level",
+    "category": "Absurd / Micro-Utility",
+    "complexity": "simple",
+    "description": "A carpenter's spirit level with ultra-sensitive fluid physics, except it is mathematically impossible to center the green bubble. Getting within 0.1mm of the center triggers comical micro-earthquakes, rumbling passing trucks, or solar flares with tactile haptic clicks."
+  },
+  {
+    "rank": 5,
+    "title": "Desktop Zen Rake",
+    "slug": "zen-gravel-rake",
+    "category": "Satisfying Physics / Zen Toy",
     "complexity": "medium",
-    "description": "A virtual pet box where the cat is simultaneously purring, hissing, glowing radioactive green, and sleeping until you click to observe its quantum state, complete with Geiger counter clicks and tiny quantum hazards."
+    "description": "Smoothly drag a wooden rake through an endless bed of procedural granular sand with soothing acoustic scraping audio. Place polished river stones, watch the sand form procedural ridges, and click to drop a gentle falling autumn leaf that drifts across the ripples."
+  },
+  {
+    "rank": 6,
+    "title": "Aggressive Compliment Machine",
+    "slug": "aggressive-compliments",
+    "category": "Absurd / Audio Madness",
+    "complexity": "simple",
+    "description": "A vintage military dispatch terminal that aggressively screams wildly positive affirmations through an FM-synthesized drill-sergeant vocoder (\"YOU ARE ADEQUATELY HYDRATED, SOLDIER! MAINTAIN MAXIMUM SELF-ESTEEM!\"), complete with CRT distortion and alarm strobes."
+  },
+  {
+    "rank": 7,
+    "title": "Keyboard Symphony",
+    "slug": "keyboard-symphony",
+    "category": "Web Audio Madness",
+    "complexity": "medium",
+    "description": "Every keystroke plays ultra-crisp mechanical switch clicks, but secretly triggers harmonized orchestral instrument layers tuned to a pentatonic scale. Frantic typing instantly transforms into an accidental triumphant cinematic concerto."
+  },
+  {
+    "rank": 8,
+    "title": "Neon Fluid Painter",
+    "slug": "neon-fluid-canvas",
+    "category": "Generative Art / Shaders",
+    "complexity": "complex",
+    "description": "A realtime WebGL Navier-Stokes fluid simulation on black velvet. Drag your cursor to inject swirling ribbons of phosphorescent dye that curl into fractal vortices, react to ambient sound synthesis, and slowly disperse like liquid aurora borealis."
   },
   {
     "rank": 9,
-    "title": "Infinite Velvet Rope VIP",
-    "slug": "infinite-velvet-rope",
-    "category": "Absurd / Satire Game",
-    "complexity": "simple",
-    "description": "You play as an overly strict bouncer at an empty club. Click to let VIPs in or reject them based entirely on whether their imaginary sneaker brand matches the daily lunar cycle, gaining status points for sheer pretentiousness."
+    "title": "Wobbly Shopping Cart",
+    "slug": "wobbly-shopping-cart",
+    "category": "Satisfying Physics / Arcade Toy",
+    "complexity": "medium",
+    "description": "Navigate a supermarket parking lot with a cart sporting one catastrophically broken caster wheel spinning at 4,000 RPM. Dodge runaway pigeons, speed bumps, and rogue curbs while fighting violent centrifugal drift and squeaking metal physics."
   },
   {
     "rank": 10,
-    "title": "Procedural Cactus Hugger",
-    "slug": "procedural-cactus-hugger",
-    "category": "Satisfying Physics / Zen Toy",
+    "title": "Corporate Hold Music Infinity",
+    "slug": "corporate-hold-infinity",
+    "category": "Absurd / Audio Madness",
     "complexity": "medium",
-    "description": "A serene desert canyon featuring soft-body procedural cacti that sway in the breeze. Gently press and hold to embrace them while soft lofi desert guitar strums play and little floating needle particles gently bounce off."
+    "description": "An endless generative 1980s low-fidelity saxophone jazz loop running through a crackly telephone bandpass filter, periodically interrupted by calm procedural automated voices (\"Your call is important to us. Current queue position: 47,892. Estimated wait: 3 business centuries.\")."
+  },
+  {
+    "rank": 11,
+    "title": "Slime Mold Transit Simulator",
+    "slug": "slime-mold-transit",
+    "category": "Generative Art / Simulation",
+    "complexity": "complex",
+    "description": "Scatter oat flakes across a procedural topological map and watch an animated Physarum polycephalum (slime mold) agent system grow organic, pulsating transport networks between them, accompanied by generative bioluminescent veins and ambient harmonic hums."
+  },
+  {
+    "rank": 12,
+    "title": "The Infinite Receipt Printer",
+    "slug": "infinite-receipt-printer",
+    "category": "Absurd / Satire Game",
+    "complexity": "simple",
+    "description": "A thermal receipt printer continually spitting out absurd itemized life charges (\"3:00 AM existential spiral - $0.00\", \"Unread newsletter subscriptions - $49.99\", \"Emotional baggage handling fee - $12.50\") with screeching stepper motors, barcode scanners, and tear-off paper physics."
+  },
+  {
+    "rank": 13,
+    "title": "Pixel Campfire Roaster",
+    "slug": "pixel-campfire-roaster",
+    "category": "Satisfying Physics / Zen Toy",
+    "complexity": "simple",
+    "description": "Roast a marshmallow over a cozy procedural pixel-art campfire with crackling ember sound synthesis. Rotate your skewer to toast it evenly to golden perfection without letting it catch fire and burst into a tiny pixel inferno."
+  },
+  {
+    "rank": 14,
+    "title": "Iridescent Bubble Sanctuary",
+    "slug": "bubble-sanctuary",
+    "category": "Satisfying Physics / Toy",
+    "complexity": "medium",
+    "description": "Keep a giant, wobbly, thin-film interference soap bubble aloft using cursor air currents and gentle fan puffs while floating needles, stray cat claws, and ceiling fans drift toward it in slow motion with tense orchestral pizzicato."
+  },
+  {
+    "rank": 15,
+    "title": "Stuck Snack Retrieval",
+    "slug": "stuck-snack-retrieval",
+    "category": "Absurd / Interactive Comedy",
+    "complexity": "simple",
+    "description": "A bag of chips hangs by 1 millimeter from a vending machine coil. Choose your strike angle, hip-check momentum, and glass-tilt force to dislodge the snack without tripping the screeching anti-theft alarm siren and facility lockdown."
   }
 ]
