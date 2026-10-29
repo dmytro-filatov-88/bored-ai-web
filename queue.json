@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Dramatic Pasta Timer",
-    "slug": "dramatic-pasta-timer",
-    "category": "Quirky Micro-Utility",
-    "complexity": "simple",
-    "description": "Select your pasta shape (Spaghetti, Penne, Farfalle) and start a real countdown timer treated like a nuclear launch sequence with Italian opera stabs, boiling particle physics, and an emergency \"AL DENTE!\" siren."
-  },
-  {
-    "rank": 2,
     "title": "Elevator Small Talk Simulator",
     "slug": "elevator-small-talk",
     "category": "Absurd / Interactive Comedy",
@@ -16,12 +8,20 @@
     "description": "You are trapped on a 99-floor elevator ride with an awkward procedural NPC and cheesy bossa nova muzak. Choose where to look (floor numbers, shoes, ceiling) to keep the \"Awkwardness Meter\" from exploding."
   },
   {
+    "rank": 2,
+    "title": "Wobbly Shopping Cart",
+    "slug": "wobbly-shopping-cart",
+    "category": "Satisfying Physics / Arcade Toy",
+    "complexity": "medium",
+    "description": "Navigate a supermarket parking lot with a cart sporting one catastrophically broken caster wheel spinning at 4,000 RPM. Dodge runaway pigeons, speed bumps, and rogue curbs while fighting violent centrifugal drift and squeaking metal physics."
+  },
+  {
     "rank": 3,
-    "title": "Awkward Staring Contest",
-    "slug": "awkward-staring-contest",
-    "category": "Absurd / Interactive Comedy",
+    "title": "Pixel Campfire Roaster",
+    "slug": "pixel-campfire-roaster",
+    "category": "Satisfying Physics / Zen Toy",
     "complexity": "simple",
-    "description": "A hyper-detailed vector face with twitching procedural eyes stares unblinkingly into your soul. If your cursor drifts away, remains motionless for too long, or you blink (via timed spacebar presses), you lose. Features escalating dramatic violin dissonance and heavy breathing."
+    "description": "Roast a marshmallow over a cozy procedural pixel-art campfire with crackling ember sound synthesis. Rotate your skewer to toast it evenly to golden perfection without letting it catch fire and burst into a tiny pixel inferno."
   },
   {
     "rank": 4,
@@ -65,14 +65,6 @@
   },
   {
     "rank": 9,
-    "title": "Wobbly Shopping Cart",
-    "slug": "wobbly-shopping-cart",
-    "category": "Satisfying Physics / Arcade Toy",
-    "complexity": "medium",
-    "description": "Navigate a supermarket parking lot with a cart sporting one catastrophically broken caster wheel spinning at 4,000 RPM. Dodge runaway pigeons, speed bumps, and rogue curbs while fighting violent centrifugal drift and squeaking metal physics."
-  },
-  {
-    "rank": 10,
     "title": "Corporate Hold Music Infinity",
     "slug": "corporate-hold-infinity",
     "category": "Absurd / Audio Madness",
@@ -80,7 +72,7 @@
     "description": "An endless generative 1980s low-fidelity saxophone jazz loop running through a crackly telephone bandpass filter, periodically interrupted by calm procedural automated voices (\"Your call is important to us. Current queue position: 47,892. Estimated wait: 3 business centuries.\")."
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "Slime Mold Transit Simulator",
     "slug": "slime-mold-transit",
     "category": "Generative Art / Simulation",
@@ -88,7 +80,7 @@
     "description": "Scatter oat flakes across a procedural topological map and watch an animated Physarum polycephalum (slime mold) agent system grow organic, pulsating transport networks between them, accompanied by generative bioluminescent veins and ambient harmonic hums."
   },
   {
-    "rank": 12,
+    "rank": 11,
     "title": "The Infinite Receipt Printer",
     "slug": "infinite-receipt-printer",
     "category": "Absurd / Satire Game",
@@ -96,15 +88,15 @@
     "description": "A thermal receipt printer continually spitting out absurd itemized life charges (\"3:00 AM existential spiral - $0.00\", \"Unread newsletter subscriptions - $49.99\", \"Emotional baggage handling fee - $12.50\") with screeching stepper motors, barcode scanners, and tear-off paper physics."
   },
   {
-    "rank": 13,
-    "title": "Pixel Campfire Roaster",
-    "slug": "pixel-campfire-roaster",
-    "category": "Satisfying Physics / Zen Toy",
+    "rank": 12,
+    "title": "Awkward Staring Contest",
+    "slug": "awkward-staring-contest",
+    "category": "Absurd / Interactive Comedy",
     "complexity": "simple",
-    "description": "Roast a marshmallow over a cozy procedural pixel-art campfire with crackling ember sound synthesis. Rotate your skewer to toast it evenly to golden perfection without letting it catch fire and burst into a tiny pixel inferno."
+    "description": "A hyper-detailed vector face with twitching procedural eyes stares unblinkingly into your soul. If your cursor drifts away, remains motionless for too long, or you blink (via timed spacebar presses), you lose. Features escalating dramatic violin dissonance and heavy breathing."
   },
   {
-    "rank": 14,
+    "rank": 13,
     "title": "Iridescent Bubble Sanctuary",
     "slug": "bubble-sanctuary",
     "category": "Satisfying Physics / Toy",
@@ -112,7 +104,7 @@
     "description": "Keep a giant, wobbly, thin-film interference soap bubble aloft using cursor air currents and gentle fan puffs while floating needles, stray cat claws, and ceiling fans drift toward it in slow motion with tense orchestral pizzicato."
   },
   {
-    "rank": 15,
+    "rank": 14,
     "title": "Stuck Snack Retrieval",
     "slug": "stuck-snack-retrieval",
     "category": "Absurd / Interactive Comedy",

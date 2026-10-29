@@ -86,5 +86,16 @@
     "url": "https://dmytro-filatov-88.github.io/daily-standup-alibi/",
     "repo": "https://github.com/dmytro-filatov-88/daily-standup-alibi",
     "description": "A retro slot-machine terminal that spins three mechanical reels (Technical Jargon, Blame Target, Confidence Multiplier) to generate bulletproof excuses for why your ticket isn't done yet, complete with mechanical clunks, suspicion meter, and dot-matrix receipt printouts."
+  },
+  {
+    "slug": "dramatic-pasta-timer",
+    "title": "Dramatic Pasta Timer",
+    "category": "Quirky Micro-Utility",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-10-29",
+    "url": "https://dmytro-filatov-88.github.io/dramatic-pasta-timer/",
+    "repo": "https://github.com/dmytro-filatov-88/dramatic-pasta-timer",
+    "description": "A nuclear launch facility dedicated entirely to boiling pasta to flawless al dente perfection. Features authentic procedural opera stabs, bubbling hydrothermal reactor canvas physics, safety key interlocks, emergency sirens, and Nonna's tactical defense protocols."
   }
 ]
