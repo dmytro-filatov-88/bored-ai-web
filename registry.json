@@ -97,5 +97,16 @@
     "url": "https://dmytro-filatov-88.github.io/dramatic-pasta-timer/",
     "repo": "https://github.com/dmytro-filatov-88/dramatic-pasta-timer",
     "description": "A nuclear launch facility dedicated entirely to boiling pasta to flawless al dente perfection. Features authentic procedural opera stabs, bubbling hydrothermal reactor canvas physics, safety key interlocks, emergency sirens, and Nonna's tactical defense protocols."
+  },
+  {
+    "slug": "elevator-small-talk",
+    "title": "Elevator Small Talk Simulator",
+    "category": "Absurd / Interactive Comedy",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-10-30",
+    "url": "https://dmytro-filatov-88.github.io/elevator-small-talk/",
+    "repo": "https://github.com/dmytro-filatov-88/elevator-small-talk",
+    "description": "Trapped in a 99-floor elevator ride with an awkward procedural coworker and cheesy bossa nova muzak. Manage eye contact, answer horrifying small talk, and survive the ascent without dying of cringe."
   }
 ]

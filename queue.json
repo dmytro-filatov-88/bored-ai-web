@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Elevator Small Talk Simulator",
-    "slug": "elevator-small-talk",
-    "category": "Absurd / Interactive Comedy",
-    "complexity": "simple",
-    "description": "You are trapped on a 99-floor elevator ride with an awkward procedural NPC and cheesy bossa nova muzak. Choose where to look (floor numbers, shoes, ceiling) to keep the \"Awkwardness Meter\" from exploding."
-  },
-  {
-    "rank": 2,
     "title": "Wobbly Shopping Cart",
     "slug": "wobbly-shopping-cart",
     "category": "Satisfying Physics / Arcade Toy",
@@ -16,7 +8,7 @@
     "description": "Navigate a supermarket parking lot with a cart sporting one catastrophically broken caster wheel spinning at 4,000 RPM. Dodge runaway pigeons, speed bumps, and rogue curbs while fighting violent centrifugal drift and squeaking metal physics."
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "Pixel Campfire Roaster",
     "slug": "pixel-campfire-roaster",
     "category": "Satisfying Physics / Zen Toy",
@@ -24,7 +16,7 @@
     "description": "Roast a marshmallow over a cozy procedural pixel-art campfire with crackling ember sound synthesis. Rotate your skewer to toast it evenly to golden perfection without letting it catch fire and burst into a tiny pixel inferno."
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "The Impossible Spirit Level",
     "slug": "impossible-spirit-level",
     "category": "Absurd / Micro-Utility",
@@ -32,7 +24,7 @@
     "description": "A carpenter's spirit level with ultra-sensitive fluid physics, except it is mathematically impossible to center the green bubble. Getting within 0.1mm of the center triggers comical micro-earthquakes, rumbling passing trucks, or solar flares with tactile haptic clicks."
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Desktop Zen Rake",
     "slug": "zen-gravel-rake",
     "category": "Satisfying Physics / Zen Toy",
@@ -40,7 +32,7 @@
     "description": "Smoothly drag a wooden rake through an endless bed of procedural granular sand with soothing acoustic scraping audio. Place polished river stones, watch the sand form procedural ridges, and click to drop a gentle falling autumn leaf that drifts across the ripples."
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Aggressive Compliment Machine",
     "slug": "aggressive-compliments",
     "category": "Absurd / Audio Madness",
@@ -48,7 +40,7 @@
     "description": "A vintage military dispatch terminal that aggressively screams wildly positive affirmations through an FM-synthesized drill-sergeant vocoder (\"YOU ARE ADEQUATELY HYDRATED, SOLDIER! MAINTAIN MAXIMUM SELF-ESTEEM!\"), complete with CRT distortion and alarm strobes."
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "Keyboard Symphony",
     "slug": "keyboard-symphony",
     "category": "Web Audio Madness",
@@ -56,7 +48,7 @@
     "description": "Every keystroke plays ultra-crisp mechanical switch clicks, but secretly triggers harmonized orchestral instrument layers tuned to a pentatonic scale. Frantic typing instantly transforms into an accidental triumphant cinematic concerto."
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Neon Fluid Painter",
     "slug": "neon-fluid-canvas",
     "category": "Generative Art / Shaders",
@@ -64,7 +56,7 @@
     "description": "A realtime WebGL Navier-Stokes fluid simulation on black velvet. Drag your cursor to inject swirling ribbons of phosphorescent dye that curl into fractal vortices, react to ambient sound synthesis, and slowly disperse like liquid aurora borealis."
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Corporate Hold Music Infinity",
     "slug": "corporate-hold-infinity",
     "category": "Absurd / Audio Madness",
@@ -72,7 +64,7 @@
     "description": "An endless generative 1980s low-fidelity saxophone jazz loop running through a crackly telephone bandpass filter, periodically interrupted by calm procedural automated voices (\"Your call is important to us. Current queue position: 47,892. Estimated wait: 3 business centuries.\")."
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Slime Mold Transit Simulator",
     "slug": "slime-mold-transit",
     "category": "Generative Art / Simulation",
@@ -80,7 +72,7 @@
     "description": "Scatter oat flakes across a procedural topological map and watch an animated Physarum polycephalum (slime mold) agent system grow organic, pulsating transport networks between them, accompanied by generative bioluminescent veins and ambient harmonic hums."
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "The Infinite Receipt Printer",
     "slug": "infinite-receipt-printer",
     "category": "Absurd / Satire Game",
@@ -88,7 +80,7 @@
     "description": "A thermal receipt printer continually spitting out absurd itemized life charges (\"3:00 AM existential spiral - $0.00\", \"Unread newsletter subscriptions - $49.99\", \"Emotional baggage handling fee - $12.50\") with screeching stepper motors, barcode scanners, and tear-off paper physics."
   },
   {
-    "rank": 12,
+    "rank": 11,
     "title": "Awkward Staring Contest",
     "slug": "awkward-staring-contest",
     "category": "Absurd / Interactive Comedy",
@@ -96,7 +88,7 @@
     "description": "A hyper-detailed vector face with twitching procedural eyes stares unblinkingly into your soul. If your cursor drifts away, remains motionless for too long, or you blink (via timed spacebar presses), you lose. Features escalating dramatic violin dissonance and heavy breathing."
   },
   {
-    "rank": 13,
+    "rank": 12,
     "title": "Iridescent Bubble Sanctuary",
     "slug": "bubble-sanctuary",
     "category": "Satisfying Physics / Toy",
@@ -104,7 +96,7 @@
     "description": "Keep a giant, wobbly, thin-film interference soap bubble aloft using cursor air currents and gentle fan puffs while floating needles, stray cat claws, and ceiling fans drift toward it in slow motion with tense orchestral pizzicato."
   },
   {
-    "rank": 14,
+    "rank": 13,
     "title": "Stuck Snack Retrieval",
     "slug": "stuck-snack-retrieval",
     "category": "Absurd / Interactive Comedy",
