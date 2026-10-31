@@ -108,5 +108,16 @@
     "url": "https://dmytro-filatov-88.github.io/elevator-small-talk/",
     "repo": "https://github.com/dmytro-filatov-88/elevator-small-talk",
     "description": "Trapped in a 99-floor elevator ride with an awkward procedural coworker and cheesy bossa nova muzak. Manage eye contact, answer horrifying small talk, and survive the ascent without dying of cringe."
+  },
+  {
+    "slug": "wobbly-shopping-cart",
+    "title": "Wobbly Shopping Cart",
+    "category": "Satisfying Physics / Arcade Toy",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-10-31",
+    "url": "https://dmytro-filatov-88.github.io/wobbly-shopping-cart/",
+    "repo": "https://github.com/dmytro-filatov-88/wobbly-shopping-cart",
+    "description": "Navigate a supermarket parking lot with a cart sporting one catastrophically broken caster wheel spinning at 4,000 RPM. Dodge runaway pigeons, speed bumps, and rogue curbs while fighting violent centrifugal drift and squeaking metal physics."
   }
 ]
