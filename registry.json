@@ -119,5 +119,16 @@
     "url": "https://dmytro-filatov-88.github.io/wobbly-shopping-cart/",
     "repo": "https://github.com/dmytro-filatov-88/wobbly-shopping-cart",
     "description": "Navigate a supermarket parking lot with a cart sporting one catastrophically broken caster wheel spinning at 4,000 RPM. Dodge runaway pigeons, speed bumps, and rogue curbs while fighting violent centrifugal drift and squeaking metal physics."
+  },
+  {
+    "slug": "pixel-campfire-roaster",
+    "title": "Pixel Campfire Roaster",
+    "category": "Satisfying Physics / Zen Toy",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-01",
+    "url": "https://dmytro-filatov-88.github.io/pixel-campfire-roaster/",
+    "repo": "https://github.com/dmytro-filatov-88/pixel-campfire-roaster",
+    "description": "Roast a marshmallow over a cozy procedural pixel-art campfire with crackling ember sound synthesis. Rotate your skewer to toast it evenly to golden perfection without letting it catch fire and burst into a tiny pixel inferno."
   }
 ]
