@@ -130,5 +130,16 @@
     "url": "https://dmytro-filatov-88.github.io/pixel-campfire-roaster/",
     "repo": "https://github.com/dmytro-filatov-88/pixel-campfire-roaster",
     "description": "Roast a marshmallow over a cozy procedural pixel-art campfire with crackling ember sound synthesis. Rotate your skewer to toast it evenly to golden perfection without letting it catch fire and burst into a tiny pixel inferno."
+  },
+  {
+    "slug": "impossible-spirit-level",
+    "title": "The Impossible Spirit Level",
+    "category": "Absurd / Micro-Utility",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-02",
+    "url": "https://dmytro-filatov-88.github.io/impossible-spirit-level/",
+    "repo": "https://github.com/dmytro-filatov-88/impossible-spirit-level",
+    "description": "A carpenter's spirit level with ultra-sensitive fluid physics, except it is mathematically impossible to center the green bubble. Getting within 0.1mm of the center triggers comical micro-earthquakes, rumbling passing trucks, or solar flares with tactile haptic clicks."
   }
 ]
