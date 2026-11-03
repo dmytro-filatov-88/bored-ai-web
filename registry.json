@@ -141,5 +141,16 @@
     "url": "https://dmytro-filatov-88.github.io/impossible-spirit-level/",
     "repo": "https://github.com/dmytro-filatov-88/impossible-spirit-level",
     "description": "A carpenter's spirit level with ultra-sensitive fluid physics, except it is mathematically impossible to center the green bubble. Getting within 0.1mm of the center triggers comical micro-earthquakes, rumbling passing trucks, or solar flares with tactile haptic clicks."
+  },
+  {
+    "slug": "zen-gravel-rake",
+    "title": "Desktop Zen Rake",
+    "category": "Satisfying Physics / Zen Toy",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-11-03",
+    "url": "https://dmytro-filatov-88.github.io/zen-gravel-rake/",
+    "repo": "https://github.com/dmytro-filatov-88/zen-gravel-rake",
+    "description": "Smoothly drag a wooden rake through an endless bed of procedural granular sand with soothing acoustic scraping audio. Place polished river stones, watch the sand form procedural ridges, and click to drop a gentle falling autumn leaf that drifts across the ripples."
   }
 ]
