@@ -152,5 +152,16 @@
     "url": "https://dmytro-filatov-88.github.io/zen-gravel-rake/",
     "repo": "https://github.com/dmytro-filatov-88/zen-gravel-rake",
     "description": "Smoothly drag a wooden rake through an endless bed of procedural granular sand with soothing acoustic scraping audio. Place polished river stones, watch the sand form procedural ridges, and click to drop a gentle falling autumn leaf that drifts across the ripples."
+  },
+  {
+    "slug": "aggressive-compliments",
+    "title": "Aggressive Compliment Machine",
+    "category": "Absurd / Audio Madness",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-04",
+    "url": "https://dmytro-filatov-88.github.io/aggressive-compliments/",
+    "repo": "https://github.com/dmytro-filatov-88/aggressive-compliments",
+    "description": "A vintage military dispatch terminal that aggressively screams wildly positive affirmations through an FM-synthesized drill-sergeant vocoder, complete with CRT scanlines, CRT screen distortion, analog needle gauges, and alarm strobes."
   }
 ]
