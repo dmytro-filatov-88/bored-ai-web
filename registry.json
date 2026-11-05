@@ -163,5 +163,16 @@
     "url": "https://dmytro-filatov-88.github.io/aggressive-compliments/",
     "repo": "https://github.com/dmytro-filatov-88/aggressive-compliments",
     "description": "A vintage military dispatch terminal that aggressively screams wildly positive affirmations through an FM-synthesized drill-sergeant vocoder, complete with CRT scanlines, CRT screen distortion, analog needle gauges, and alarm strobes."
+  },
+  {
+    "slug": "keyboard-symphony",
+    "title": "Keyboard Symphony",
+    "category": "Web Audio Madness",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-11-05",
+    "url": "https://dmytro-filatov-88.github.io/keyboard-symphony/",
+    "repo": "https://github.com/dmytro-filatov-88/keyboard-symphony",
+    "description": "Every keystroke plays ultra-crisp mechanical switch clicks, but secretly triggers harmonized orchestral instrument layers tuned to a pentatonic scale. Frantic typing instantly transforms into an accidental triumphant cinematic concerto."
   }
 ]
