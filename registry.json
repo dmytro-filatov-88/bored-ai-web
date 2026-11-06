@@ -174,5 +174,16 @@
     "url": "https://dmytro-filatov-88.github.io/keyboard-symphony/",
     "repo": "https://github.com/dmytro-filatov-88/keyboard-symphony",
     "description": "Every keystroke plays ultra-crisp mechanical switch clicks, but secretly triggers harmonized orchestral instrument layers tuned to a pentatonic scale. Frantic typing instantly transforms into an accidental triumphant cinematic concerto."
+  },
+  {
+    "slug": "neon-fluid-canvas",
+    "title": "Neon Fluid Painter",
+    "category": "Generative Art / Shaders",
+    "complexity": "complex",
+    "model": "pro",
+    "date": "2026-11-06",
+    "url": "https://dmytro-filatov-88.github.io/neon-fluid-canvas/",
+    "repo": "https://github.com/dmytro-filatov-88/neon-fluid-canvas",
+    "description": "A realtime WebGL Navier-Stokes fluid simulation on black velvet. Drag your cursor to inject swirling ribbons of phosphorescent dye that curl into fractal vortices, react to ambient sound synthesis, and slowly disperse like liquid aurora borealis."
   }
 ]
