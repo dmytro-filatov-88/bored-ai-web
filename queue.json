@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Corporate Hold Music Infinity",
-    "slug": "corporate-hold-infinity",
-    "category": "Absurd / Audio Madness",
-    "complexity": "medium",
-    "description": "An endless generative 1980s low-fidelity saxophone jazz loop running through a crackly telephone bandpass filter, periodically interrupted by calm procedural automated voices (\"Your call is important to us. Current queue position: 47,892. Estimated wait: 3 business centuries.\")."
-  },
-  {
-    "rank": 2,
     "title": "Slime Mold Transit Simulator",
     "slug": "slime-mold-transit",
     "category": "Generative Art / Simulation",
@@ -16,7 +8,7 @@
     "description": "Scatter oat flakes across a procedural topological map and watch an animated Physarum polycephalum (slime mold) agent system grow organic, pulsating transport networks between them, accompanied by generative bioluminescent veins and ambient harmonic hums."
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "The Infinite Receipt Printer",
     "slug": "infinite-receipt-printer",
     "category": "Absurd / Satire Game",
@@ -24,7 +16,7 @@
     "description": "A thermal receipt printer continually spitting out absurd itemized life charges (\"3:00 AM existential spiral - $0.00\", \"Unread newsletter subscriptions - $49.99\", \"Emotional baggage handling fee - $12.50\") with screeching stepper motors, barcode scanners, and tear-off paper physics."
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Awkward Staring Contest",
     "slug": "awkward-staring-contest",
     "category": "Absurd / Interactive Comedy",
@@ -32,7 +24,7 @@
     "description": "A hyper-detailed vector face with twitching procedural eyes stares unblinkingly into your soul. If your cursor drifts away, remains motionless for too long, or you blink (via timed spacebar presses), you lose. Features escalating dramatic violin dissonance and heavy breathing."
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Iridescent Bubble Sanctuary",
     "slug": "bubble-sanctuary",
     "category": "Satisfying Physics / Toy",
@@ -40,7 +32,7 @@
     "description": "Keep a giant, wobbly, thin-film interference soap bubble aloft using cursor air currents and gentle fan puffs while floating needles, stray cat claws, and ceiling fans drift toward it in slow motion with tense orchestral pizzicato."
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Stuck Snack Retrieval",
     "slug": "stuck-snack-retrieval",
     "category": "Absurd / Interactive Comedy",
@@ -48,7 +40,7 @@
     "description": "A bag of chips hangs by 1 millimeter from a vending machine coil. Choose your strike angle, hip-check momentum, and glass-tilt force to dislodge the snack without tripping the screeching anti-theft alarm siren and facility lockdown."
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "Dramatic Pigeon Translator",
     "slug": "pigeon-translator",
     "category": "Absurd / Interactive Comedy",
@@ -56,7 +48,7 @@
     "description": "A street pigeon sitting on a park bench waiting to judge your life choices. Click to record or type anything, and watch it respond with synthesized raspy coos, aggressive head bobbing, and highly dramatic subtitles about crumb economics."
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Quantum Toast Teleporter",
     "slug": "quantum-toast-teleporter",
     "category": "Absurd / Micro-Utility",
@@ -64,7 +56,7 @@
     "description": "A quantum physics laboratory experiment where you butter slices of toast and drop them to test Murphy's law. Add anti-gravity fields, cat attachments, and parallel dimension portals to achieve 100% butter-side-up teleportation success."
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Chaotic Cable Tangle",
     "slug": "chaotic-cable-tangle",
     "category": "Satisfying Physics / Toy",
@@ -72,7 +64,7 @@
     "description": "A physics simulation of a desk drawer filled with old charging cables, headphone cords, and USB wires that spontaneously tie themselves into Gordian knots. Drag the ends to untangle them while soothing lofi beats play."
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Suspicious Calculator",
     "slug": "suspicious-calculator",
     "category": "Absurd / Satire Game",
@@ -80,7 +72,7 @@
     "description": "A pocket calculator that looks completely normal until you try to divide by zero or calculate taxes. The buttons physically slide away from your cursor, judge your financial decisions with text popups, and occasionally round your mortgage payments up to infinity."
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "Midnight Fridge Glow",
     "slug": "midnight-fridge-glow",
     "category": "Generative Art / Zen Toy",
@@ -88,7 +80,7 @@
     "description": "Open a vintage retro refrigerator in a pitch-black kitchen at 3 AM. The eerie neon blue LED glow illuminates floating dust motes, mysterious glowing leftover containers, and a tiny fridge goblin who rates your snack choices with dramatic accordion riffs."
   },
   {
-    "rank": 12,
+    "rank": 11,
     "title": "Infinite Falling Cat",
     "slug": "infinite-falling-cat",
     "category": "Generative Art / Shaders",

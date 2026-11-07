@@ -185,5 +185,16 @@
     "url": "https://dmytro-filatov-88.github.io/neon-fluid-canvas/",
     "repo": "https://github.com/dmytro-filatov-88/neon-fluid-canvas",
     "description": "A realtime WebGL Navier-Stokes fluid simulation on black velvet. Drag your cursor to inject swirling ribbons of phosphorescent dye that curl into fractal vortices, react to ambient sound synthesis, and slowly disperse like liquid aurora borealis."
+  },
+  {
+    "slug": "corporate-hold-infinity",
+    "title": "Corporate Hold Music Infinity",
+    "category": "Absurd / Audio Madness",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-11-07",
+    "url": "https://dmytro-filatov-88.github.io/corporate-hold-infinity/",
+    "repo": "https://github.com/dmytro-filatov-88/corporate-hold-infinity",
+    "description": "An endless generative 1980s low-fidelity saxophone jazz loop running through a crackly telephone bandpass filter, periodically interrupted by calm procedural automated voices (\"Your call is important to us. Current queue position: 47,892. Estimated wait: 3 business centuries.\")."
   }
 ]
