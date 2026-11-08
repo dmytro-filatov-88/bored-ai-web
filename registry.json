@@ -196,5 +196,16 @@
     "url": "https://dmytro-filatov-88.github.io/corporate-hold-infinity/",
     "repo": "https://github.com/dmytro-filatov-88/corporate-hold-infinity",
     "description": "An endless generative 1980s low-fidelity saxophone jazz loop running through a crackly telephone bandpass filter, periodically interrupted by calm procedural automated voices (\"Your call is important to us. Current queue position: 47,892. Estimated wait: 3 business centuries.\")."
+  },
+  {
+    "slug": "slime-mold-transit",
+    "title": "Slime Mold Transit Simulator",
+    "category": "Generative Art / Simulation",
+    "complexity": "complex",
+    "model": "pro",
+    "date": "2026-11-08",
+    "url": "https://dmytro-filatov-88.github.io/slime-mold-transit/",
+    "repo": "https://github.com/dmytro-filatov-88/slime-mold-transit",
+    "description": "Scatter oat flakes across a procedural topological map and watch an animated Physarum polycephalum agent system grow organic, pulsating transport networks between them, accompanied by generative bioluminescent veins and ambient harmonic hums."
   }
 ]
