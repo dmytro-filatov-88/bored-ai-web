@@ -207,5 +207,16 @@
     "url": "https://dmytro-filatov-88.github.io/slime-mold-transit/",
     "repo": "https://github.com/dmytro-filatov-88/slime-mold-transit",
     "description": "Scatter oat flakes across a procedural topological map and watch an animated Physarum polycephalum agent system grow organic, pulsating transport networks between them, accompanied by generative bioluminescent veins and ambient harmonic hums."
+  },
+  {
+    "slug": "infinite-receipt-printer",
+    "title": "The Infinite Receipt Printer",
+    "category": "Absurd / Satire Game",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-09",
+    "url": "https://dmytro-filatov-88.github.io/infinite-receipt-printer/",
+    "repo": "https://github.com/dmytro-filatov-88/infinite-receipt-printer",
+    "description": "A thermal receipt printer continually spitting out absurd itemized life charges (\"3:00 AM existential spiral - $0.00\", \"Unread newsletter subscriptions - $49.99\", \"Emotional baggage handling fee - $12.50\") with screeching stepper motors, barcode scanners, rubber stamps, and tear-off paper physics."
   }
 ]
