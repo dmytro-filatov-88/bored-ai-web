@@ -218,5 +218,16 @@
     "url": "https://dmytro-filatov-88.github.io/infinite-receipt-printer/",
     "repo": "https://github.com/dmytro-filatov-88/infinite-receipt-printer",
     "description": "A thermal receipt printer continually spitting out absurd itemized life charges (\"3:00 AM existential spiral - $0.00\", \"Unread newsletter subscriptions - $49.99\", \"Emotional baggage handling fee - $12.50\") with screeching stepper motors, barcode scanners, rubber stamps, and tear-off paper physics."
+  },
+  {
+    "slug": "awkward-staring-contest",
+    "title": "Awkward Staring Contest",
+    "category": "Absurd / Interactive Comedy",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-10",
+    "url": "https://dmytro-filatov-88.github.io/awkward-staring-contest/",
+    "repo": "https://github.com/dmytro-filatov-88/awkward-staring-contest",
+    "description": "A hyper-detailed vector face with twitching procedural eyes stares unblinkingly into your soul. If your cursor drifts away, remains motionless for too long, or you blink (via timed spacebar presses), you lose. Features escalating dramatic violin dissonance and heavy breathing."
   }
 ]
