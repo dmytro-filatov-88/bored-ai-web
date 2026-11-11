@@ -229,5 +229,16 @@
     "url": "https://dmytro-filatov-88.github.io/awkward-staring-contest/",
     "repo": "https://github.com/dmytro-filatov-88/awkward-staring-contest",
     "description": "A hyper-detailed vector face with twitching procedural eyes stares unblinkingly into your soul. If your cursor drifts away, remains motionless for too long, or you blink (via timed spacebar presses), you lose. Features escalating dramatic violin dissonance and heavy breathing."
+  },
+  {
+    "slug": "bubble-sanctuary",
+    "title": "Iridescent Bubble Sanctuary",
+    "category": "Satisfying Physics / Toy",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-11-11",
+    "url": "https://dmytro-filatov-88.github.io/bubble-sanctuary/",
+    "repo": "https://github.com/dmytro-filatov-88/bubble-sanctuary",
+    "description": "Keep a giant, wobbly, thin-film interference soap bubble aloft using cursor air currents and gentle fan puffs while floating needles, stray cat claws, and ceiling fans drift toward it in slow motion with tense orchestral pizzicato."
   }
 ]
