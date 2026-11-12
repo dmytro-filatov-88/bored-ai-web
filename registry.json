@@ -240,5 +240,16 @@
     "url": "https://dmytro-filatov-88.github.io/bubble-sanctuary/",
     "repo": "https://github.com/dmytro-filatov-88/bubble-sanctuary",
     "description": "Keep a giant, wobbly, thin-film interference soap bubble aloft using cursor air currents and gentle fan puffs while floating needles, stray cat claws, and ceiling fans drift toward it in slow motion with tense orchestral pizzicato."
+  },
+  {
+    "slug": "stuck-snack-retrieval",
+    "title": "Stuck Snack Retrieval",
+    "category": "Absurd / Interactive Comedy",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-12",
+    "url": "https://dmytro-filatov-88.github.io/stuck-snack-retrieval/",
+    "repo": "https://github.com/dmytro-filatov-88/stuck-snack-retrieval",
+    "description": "A bag of chips hangs by 1 millimeter from a vending machine coil. Choose your strike angle, hip-check momentum, and glass-tilt force to dislodge the snack without tripping the screeching anti-theft alarm siren and facility lockdown."
   }
 ]
