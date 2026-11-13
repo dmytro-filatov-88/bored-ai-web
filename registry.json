@@ -251,5 +251,16 @@
     "url": "https://dmytro-filatov-88.github.io/stuck-snack-retrieval/",
     "repo": "https://github.com/dmytro-filatov-88/stuck-snack-retrieval",
     "description": "A bag of chips hangs by 1 millimeter from a vending machine coil. Choose your strike angle, hip-check momentum, and glass-tilt force to dislodge the snack without tripping the screeching anti-theft alarm siren and facility lockdown."
+  },
+  {
+    "slug": "pigeon-translator",
+    "title": "Dramatic Pigeon Translator",
+    "category": "Absurd / Interactive Comedy",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-13",
+    "url": "https://dmytro-filatov-88.github.io/pigeon-translator/",
+    "repo": "https://github.com/dmytro-filatov-88/pigeon-translator",
+    "description": "A street pigeon sitting on a park bench waiting to judge your life choices. Click to record or type anything, and watch it respond with synthesized raspy coos, aggressive head bobbing, and highly dramatic subtitles about crumb economics."
   }
 ]

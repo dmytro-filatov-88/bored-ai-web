@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Dramatic Pigeon Translator",
-    "slug": "pigeon-translator",
-    "category": "Absurd / Interactive Comedy",
-    "complexity": "simple",
-    "description": "A street pigeon sitting on a park bench waiting to judge your life choices. Click to record or type anything, and watch it respond with synthesized raspy coos, aggressive head bobbing, and highly dramatic subtitles about crumb economics."
-  },
-  {
-    "rank": 2,
     "title": "Quantum Toast Teleporter",
     "slug": "quantum-toast-teleporter",
     "category": "Absurd / Micro-Utility",
@@ -16,7 +8,7 @@
     "description": "A quantum physics laboratory experiment where you butter slices of toast and drop them to test Murphy's law. Add anti-gravity fields, cat attachments, and parallel dimension portals to achieve 100% butter-side-up teleportation success."
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "Chaotic Cable Tangle",
     "slug": "chaotic-cable-tangle",
     "category": "Satisfying Physics / Toy",
@@ -24,7 +16,7 @@
     "description": "A physics simulation of a desk drawer filled with old charging cables, headphone cords, and USB wires that spontaneously tie themselves into Gordian knots. Drag the ends to untangle them while soothing lofi beats play."
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Suspicious Calculator",
     "slug": "suspicious-calculator",
     "category": "Absurd / Satire Game",
@@ -32,7 +24,7 @@
     "description": "A pocket calculator that looks completely normal until you try to divide by zero or calculate taxes. The buttons physically slide away from your cursor, judge your financial decisions with text popups, and occasionally round your mortgage payments up to infinity."
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Midnight Fridge Glow",
     "slug": "midnight-fridge-glow",
     "category": "Generative Art / Zen Toy",
@@ -40,7 +32,7 @@
     "description": "Open a vintage retro refrigerator in a pitch-black kitchen at 3 AM. The eerie neon blue LED glow illuminates floating dust motes, mysterious glowing leftover containers, and a tiny fridge goblin who rates your snack choices with dramatic accordion riffs."
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Infinite Falling Cat",
     "slug": "infinite-falling-cat",
     "category": "Generative Art / Shaders",
@@ -48,7 +40,7 @@
     "description": "A WebGL raymarched infinite tunnel where a tuxedo cat eternally falls through hyperspace while twisting to always land on its feet on moving laser platforms, complete with wind-tunnel particle effects and chill synthwave soundtracks."
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "The Overzealous Autocorrect Courtroom",
     "slug": "autocorrect-courtroom",
     "category": "Absurd / Interactive Comedy",
@@ -56,7 +48,7 @@
     "description": "You are a defense attorney trying to type a normal, innocent message (like \"I'll be there in a sec\"), but an authoritarian autocorrect judge aggressively slams a gavel, changing your words into incriminating, scandalous accusations with courtroom stenographer sounds, dramatic brass stings, and jury gasp audio."
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Bioluminescent Jellyfish Orchestra",
     "slug": "jellyfish-orchestra",
     "category": "Generative Art / Zen Toy",
@@ -64,7 +56,7 @@
     "description": "Float through an abyss of translucent, pulsating deep-sea jellyfish. Each jellyfish bell pulsates with procedural harmonic chords tuned to the deep ocean pressure, emitting glowing phosphorescent trails when stroked with your cursor or disturbed by acoustic sonar pings."
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "The Passive Microwave Countdown",
     "slug": "passive-microwave-countdown",
     "category": "Absurd / Micro-Utility",
@@ -72,7 +64,7 @@
     "description": "A microwave heating a mystery dish with an unskippable countdown. Stop it exactly at 0:01 before the midnight beep wakes up the entire apartment building. Featuring rotating turntable physics, harsh yellow interior lighting, resonant microwave hum, and hyper-dramatic defusal tension."
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Ant Colony Sugar Heist",
     "slug": "ant-colony-heist",
     "category": "Satisfying Physics / Simulation",
@@ -80,7 +72,7 @@
     "description": "Drop sugar cubes and picnic crumbs on a kitchen counter and watch hundreds of foraging physics-driven ants communicate via dynamic pheromone trails to dismantle the food and carry it back, with cute miniature foley steps and picnic ambient audio."
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "Uncanny Valley Smile Calibration",
     "slug": "smile-calibration",
     "category": "Absurd / Satire Game",
@@ -88,7 +80,7 @@
     "description": "Calibrate an overly polite corporate mannequin's smile using precision calipers and sliders (corner tilt, teeth visibility, eye crinkle, unblinking intensity) before an executive handshake review. Hit the narrow zone between \"welcoming professional\" and \"sleep-paralysis demon.\""
   },
   {
-    "rank": 12,
+    "rank": 11,
     "title": "Black Hole Accordion",
     "slug": "black-hole-accordion",
     "category": "Generative Art / Shaders",
