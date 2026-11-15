@@ -262,5 +262,16 @@
     "url": "https://dmytro-filatov-88.github.io/pigeon-translator/",
     "repo": "https://github.com/dmytro-filatov-88/pigeon-translator",
     "description": "A street pigeon sitting on a park bench waiting to judge your life choices. Click to record or type anything, and watch it respond with synthesized raspy coos, aggressive head bobbing, and highly dramatic subtitles about crumb economics."
+  },
+  {
+    "slug": "quantum-toast-teleporter",
+    "title": "Quantum Toast Teleporter",
+    "category": "Absurd / Micro-Utility",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-15",
+    "url": "https://dmytro-filatov-88.github.io/quantum-toast-teleporter/",
+    "repo": "https://github.com/dmytro-filatov-88/quantum-toast-teleporter",
+    "description": "A quantum physics laboratory experiment testing Murphy's law: butter slices of toast, strap Schrödinger cats, engage anti-gravity fields, and open parallel dimension wormholes to achieve 100% butter-side-up teleportation."
   }
 ]
