@@ -273,5 +273,16 @@
     "url": "https://dmytro-filatov-88.github.io/quantum-toast-teleporter/",
     "repo": "https://github.com/dmytro-filatov-88/quantum-toast-teleporter",
     "description": "A quantum physics laboratory experiment testing Murphy's law: butter slices of toast, strap Schrödinger cats, engage anti-gravity fields, and open parallel dimension wormholes to achieve 100% butter-side-up teleportation."
+  },
+  {
+    "slug": "chaotic-cable-tangle",
+    "title": "Chaotic Cable Tangle",
+    "category": "Satisfying Physics / Toy",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-11-16",
+    "url": "https://dmytro-filatov-88.github.io/chaotic-cable-tangle/",
+    "repo": "https://github.com/dmytro-filatov-88/chaotic-cable-tangle",
+    "description": "A physics simulation of a desk drawer filled with old charging cables, headphone cords, and USB wires that spontaneously tie themselves into Gordian knots. Drag the ends to untangle them while soothing procedural lofi beats play."
   }
 ]
