@@ -284,5 +284,16 @@
     "url": "https://dmytro-filatov-88.github.io/chaotic-cable-tangle/",
     "repo": "https://github.com/dmytro-filatov-88/chaotic-cable-tangle",
     "description": "A physics simulation of a desk drawer filled with old charging cables, headphone cords, and USB wires that spontaneously tie themselves into Gordian knots. Drag the ends to untangle them while soothing procedural lofi beats play."
+  },
+  {
+    "slug": "suspicious-calculator",
+    "title": "Suspicious Calculator",
+    "category": "Absurd / Satire Game",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-17",
+    "url": "https://dmytro-filatov-88.github.io/suspicious-calculator/",
+    "repo": "https://github.com/dmytro-filatov-88/suspicious-calculator",
+    "description": "A pocket calculator that looks completely normal until you try to divide by zero or calculate taxes. The buttons physically slide away from your cursor, judge your financial decisions with text popups, and occasionally round your mortgage payments up to infinity."
   }
 ]
