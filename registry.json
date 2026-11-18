@@ -295,5 +295,16 @@
     "url": "https://dmytro-filatov-88.github.io/suspicious-calculator/",
     "repo": "https://github.com/dmytro-filatov-88/suspicious-calculator",
     "description": "A pocket calculator that looks completely normal until you try to divide by zero or calculate taxes. The buttons physically slide away from your cursor, judge your financial decisions with text popups, and occasionally round your mortgage payments up to infinity."
+  },
+  {
+    "slug": "midnight-fridge-glow",
+    "title": "Midnight Fridge Glow",
+    "category": "Generative Art / Zen Toy",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-11-18",
+    "url": "https://dmytro-filatov-88.github.io/midnight-fridge-glow/",
+    "repo": "https://github.com/dmytro-filatov-88/midnight-fridge-glow",
+    "description": "Open a vintage retro refrigerator in a pitch-black kitchen at 3 AM. The eerie neon blue LED glow illuminates floating dust motes, mysterious glowing leftover containers, and a tiny fridge goblin who rates your snack choices with dramatic accordion riffs."
   }
 ]
