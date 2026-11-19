@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Infinite Falling Cat",
-    "slug": "infinite-falling-cat",
-    "category": "Generative Art / Shaders",
-    "complexity": "complex",
-    "description": "A WebGL raymarched infinite tunnel where a tuxedo cat eternally falls through hyperspace while twisting to always land on its feet on moving laser platforms, complete with wind-tunnel particle effects and chill synthwave soundtracks."
-  },
-  {
-    "rank": 2,
     "title": "The Overzealous Autocorrect Courtroom",
     "slug": "autocorrect-courtroom",
     "category": "Absurd / Interactive Comedy",
@@ -16,7 +8,7 @@
     "description": "You are a defense attorney trying to type a normal, innocent message (like \"I'll be there in a sec\"), but an authoritarian autocorrect judge aggressively slams a gavel, changing your words into incriminating, scandalous accusations with courtroom stenographer sounds, dramatic brass stings, and jury gasp audio."
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "Bioluminescent Jellyfish Orchestra",
     "slug": "jellyfish-orchestra",
     "category": "Generative Art / Zen Toy",
@@ -24,7 +16,7 @@
     "description": "Float through an abyss of translucent, pulsating deep-sea jellyfish. Each jellyfish bell pulsates with procedural harmonic chords tuned to the deep ocean pressure, emitting glowing phosphorescent trails when stroked with your cursor or disturbed by acoustic sonar pings."
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "The Passive Microwave Countdown",
     "slug": "passive-microwave-countdown",
     "category": "Absurd / Micro-Utility",
@@ -32,7 +24,7 @@
     "description": "A microwave heating a mystery dish with an unskippable countdown. Stop it exactly at 0:01 before the midnight beep wakes up the entire apartment building. Featuring rotating turntable physics, harsh yellow interior lighting, resonant microwave hum, and hyper-dramatic defusal tension."
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Ant Colony Sugar Heist",
     "slug": "ant-colony-heist",
     "category": "Satisfying Physics / Simulation",
@@ -40,7 +32,7 @@
     "description": "Drop sugar cubes and picnic crumbs on a kitchen counter and watch hundreds of foraging physics-driven ants communicate via dynamic pheromone trails to dismantle the food and carry it back, with cute miniature foley steps and picnic ambient audio."
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Uncanny Valley Smile Calibration",
     "slug": "smile-calibration",
     "category": "Absurd / Satire Game",
@@ -48,7 +40,7 @@
     "description": "Calibrate an overly polite corporate mannequin's smile using precision calipers and sliders (corner tilt, teeth visibility, eye crinkle, unblinking intensity) before an executive handshake review. Hit the narrow zone between \"welcoming professional\" and \"sleep-paralysis demon.\""
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "Black Hole Accordion",
     "slug": "black-hole-accordion",
     "category": "Generative Art / Shaders",
@@ -56,7 +48,7 @@
     "description": "A relativistic gravitational lensing WebGL shader simulating an accretion disk and gravitational redshift around a micro black hole. Squeeze and stretch your cursor like an accordion to compress spacetime itself, bending starry background light into glowing Einstein rings accompanied by resonant sub-bass gravitational waves."
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Existential Fortune Cookie",
     "slug": "existential-fortune-cookie",
     "category": "Absurd / Satire Game",
@@ -64,7 +56,7 @@
     "description": "Crack open crispy paper-mâché fortune cookies to reveal startlingly specific, uncomfortably accurate micro-existential dread (\"Your future holds a 74% chance of forgetting why you walked into the kitchen\"). Features crunchy snapping sound synthesis, crumb particle physics, and customizable cynicism filters."
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Pidgeon Flight Simulator 1998",
     "slug": "pigeon-flight-simulator",
     "category": "Absurd / Interactive Comedy",
@@ -72,7 +64,7 @@
     "description": "A low-poly 1998 retro flight simulator where you control a city pigeon navigating gusty urban wind tunnels between skyscrapers, stealing French fries from outdoor café tables, and dodging clumsy pedestrians while listening to compressed MIDI elevator tracks."
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Schrödinger's Light Switch",
     "slug": "schrodingers-light-switch",
     "category": "Absurd / Micro-Utility",
@@ -80,7 +72,7 @@
     "description": "A wall-mounted light switch in quantum superposition. Flipping it toggles the room between illumination and total darkness in parallel dimensions, occasionally summoning raccoons, disco balls, or thunderstorms when uncertainty collapses."
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "Suspicious Desk Drawer Maze",
     "slug": "suspicious-desk-drawer-maze",
     "category": "Satisfying Physics / Toy",
@@ -88,7 +80,7 @@
     "description": "Tilt a virtual messy office desk drawer to guide a rogue marble through tangles of paperclips, rubber bands, sticky notes, and half-eaten mints, featuring satisfying wooden sliding acoustics and marble collision physics."
   },
   {
-    "rank": 12,
+    "rank": 11,
     "title": "Quantum Coffee Cup",
     "slug": "quantum-coffee-cup",
     "category": "Generative Art / Shaders",
