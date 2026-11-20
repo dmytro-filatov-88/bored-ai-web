@@ -317,5 +317,16 @@
     "url": "https://dmytro-filatov-88.github.io/infinite-falling-cat/",
     "repo": "https://github.com/dmytro-filatov-88/infinite-falling-cat",
     "description": "A WebGL raymarched infinite tunnel where a tuxedo cat eternally falls through hyperspace while twisting to always land on its feet on moving laser platforms, complete with wind-tunnel particle effects and chill synthwave soundtracks."
+  },
+  {
+    "slug": "autocorrect-courtroom",
+    "title": "The Overzealous Autocorrect Courtroom",
+    "category": "Absurd / Interactive Comedy",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-20",
+    "url": "https://dmytro-filatov-88.github.io/autocorrect-courtroom/",
+    "repo": "https://github.com/dmytro-filatov-88/autocorrect-courtroom",
+    "description": "You are a defense attorney trying to type a normal, innocent message (like \"I'll be there in a sec\"), but an authoritarian autocorrect judge aggressively slams a gavel, changing your words into incriminating, scandalous accusations with courtroom stenographer sounds, dramatic brass stings, and jury gasp audio."
   }
 ]
