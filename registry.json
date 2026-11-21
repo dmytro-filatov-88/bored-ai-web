@@ -328,5 +328,16 @@
     "url": "https://dmytro-filatov-88.github.io/autocorrect-courtroom/",
     "repo": "https://github.com/dmytro-filatov-88/autocorrect-courtroom",
     "description": "You are a defense attorney trying to type a normal, innocent message (like \"I'll be there in a sec\"), but an authoritarian autocorrect judge aggressively slams a gavel, changing your words into incriminating, scandalous accusations with courtroom stenographer sounds, dramatic brass stings, and jury gasp audio."
+  },
+  {
+    "slug": "jellyfish-orchestra",
+    "title": "Bioluminescent Jellyfish Orchestra",
+    "category": "Generative Art / Zen Toy",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-11-21",
+    "url": "https://dmytro-filatov-88.github.io/jellyfish-orchestra/",
+    "repo": "https://github.com/dmytro-filatov-88/jellyfish-orchestra",
+    "description": "Float through an abyss of translucent, pulsating deep-sea jellyfish. Each jellyfish bell pulsates with procedural harmonic chords tuned to the deep ocean pressure, emitting glowing phosphorescent trails when stroked with your cursor or disturbed by acoustic sonar pings."
   }
 ]
