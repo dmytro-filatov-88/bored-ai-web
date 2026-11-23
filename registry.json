@@ -350,5 +350,16 @@
     "url": "https://dmytro-filatov-88.github.io/passive-microwave-countdown/",
     "repo": "https://github.com/dmytro-filatov-88/passive-microwave-countdown",
     "description": "A microwave heating a mystery dish with an unskippable countdown. Stop it exactly at 0:01 before the midnight beep wakes up the entire apartment building. Featuring rotating turntable physics, harsh yellow interior lighting, resonant microwave hum, and hyper-dramatic defusal tension."
+  },
+  {
+    "slug": "ant-colony-heist",
+    "title": "Ant Colony Sugar Heist",
+    "category": "Satisfying Physics / Simulation",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-11-23",
+    "url": "https://dmytro-filatov-88.github.io/ant-colony-heist/",
+    "repo": "https://github.com/dmytro-filatov-88/ant-colony-heist",
+    "description": "Drop sugar cubes and picnic crumbs on a kitchen counter and watch hundreds of foraging physics-driven ants communicate via dynamic pheromone trails to dismantle the food and carry it back, with cute miniature foley steps and picnic ambient audio."
   }
 ]
