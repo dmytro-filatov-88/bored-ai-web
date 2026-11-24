@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Uncanny Valley Smile Calibration",
-    "slug": "smile-calibration",
-    "category": "Absurd / Satire Game",
-    "complexity": "simple",
-    "description": "Calibrate an overly polite corporate mannequin's smile using precision calipers and sliders (corner tilt, teeth visibility, eye crinkle, unblinking intensity) before an executive handshake review. Hit the narrow zone between \"welcoming professional\" and \"sleep-paralysis demon.\""
-  },
-  {
-    "rank": 2,
     "title": "Black Hole Accordion",
     "slug": "black-hole-accordion",
     "category": "Generative Art / Shaders",
@@ -16,7 +8,7 @@
     "description": "A relativistic gravitational lensing WebGL shader simulating an accretion disk and gravitational redshift around a micro black hole. Squeeze and stretch your cursor like an accordion to compress spacetime itself, bending starry background light into glowing Einstein rings accompanied by resonant sub-bass gravitational waves."
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "Existential Fortune Cookie",
     "slug": "existential-fortune-cookie",
     "category": "Absurd / Satire Game",
@@ -24,7 +16,7 @@
     "description": "Crack open crispy paper-mâché fortune cookies to reveal startlingly specific, uncomfortably accurate micro-existential dread (\"Your future holds a 74% chance of forgetting why you walked into the kitchen\"). Features crunchy snapping sound synthesis, crumb particle physics, and customizable cynicism filters."
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Pidgeon Flight Simulator 1998",
     "slug": "pigeon-flight-simulator",
     "category": "Absurd / Interactive Comedy",
@@ -32,7 +24,7 @@
     "description": "A low-poly 1998 retro flight simulator where you control a city pigeon navigating gusty urban wind tunnels between skyscrapers, stealing French fries from outdoor café tables, and dodging clumsy pedestrians while listening to compressed MIDI elevator tracks."
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Schrödinger's Light Switch",
     "slug": "schrodingers-light-switch",
     "category": "Absurd / Micro-Utility",
@@ -40,7 +32,7 @@
     "description": "A wall-mounted light switch in quantum superposition. Flipping it toggles the room between illumination and total darkness in parallel dimensions, occasionally summoning raccoons, disco balls, or thunderstorms when uncertainty collapses."
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Suspicious Desk Drawer Maze",
     "slug": "suspicious-desk-drawer-maze",
     "category": "Satisfying Physics / Toy",
@@ -48,7 +40,7 @@
     "description": "Tilt a virtual messy office desk drawer to guide a rogue marble through tangles of paperclips, rubber bands, sticky notes, and half-eaten mints, featuring satisfying wooden sliding acoustics and marble collision physics."
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "Quantum Coffee Cup",
     "slug": "quantum-coffee-cup",
     "category": "Generative Art / Shaders",
@@ -56,7 +48,7 @@
     "description": "A mesmerizing WebGL fluid shader of a steaming ceramic coffee mug where the liquid surface displays realtime procedural Mandelbrot fractals and swirling vortex convection currents. Drag to stir milk into starry galaxies while ambient coffee-shop murmur and espresso machine steam hiss play."
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Infinite Office Slinky",
     "slug": "infinite-office-slinky",
     "category": "Satisfying Physics / Toy",
@@ -64,7 +56,7 @@
     "description": "Send a metallic rainbow slinky bouncing down an infinite procedural office staircase with rhythmic metallic clangs and spring oscillation physics that respond to your mouse flick velocity."
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Overly Dramatic Alarm Clock",
     "slug": "overly-dramatic-alarm-clock",
     "category": "Absurd / Audio Madness",
@@ -72,7 +64,7 @@
     "description": "A bedside alarm clock that wakes you up with symphonic gong explosions, marching band snare rolls, and air raid sirens, requiring you to violently smash or drag its snooze button across the room before it detonates."
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Generative Botanical Terrarium",
     "slug": "generative-botanical-terrarium",
     "category": "Generative Art / Zen Toy",
@@ -80,7 +72,7 @@
     "description": "A sealed glass jar containing procedural ferns, moss, and bioluminescent mushrooms that grow and branch organically over time, reacting to gentle mouse-tap condensation droplets and soothing ambient forest soundscapes."
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "Office Chair Racing Simulator",
     "slug": "office-chair-racing",
     "category": "Satisfying Physics / Arcade Toy",
@@ -88,7 +80,7 @@
     "description": "Navigate a squeaky wheeled office chair down a linoleum hallway obstacle course of stray backpacks, open file drawers, and wandering interns, managing caster drift and desk fan propulsion."
   },
   {
-    "rank": 12,
+    "rank": 11,
     "title": "Infinite Cat Piano",
     "slug": "infinite-cat-piano",
     "category": "Web Audio Madness",
@@ -96,7 +88,7 @@
     "description": "A virtual piano where every key press plays pitch-shifted meows, purrs, and yowls synthesized via Web Audio formants, allowing you to compose majestic feline concertos on the fly."
   },
   {
-    "rank": 13,
+    "rank": 12,
     "title": "Hypnotic Kinetic Pendulum Wave",
     "slug": "hypnotic-kinetic-pendulum",
     "category": "Generative Art / Shaders",

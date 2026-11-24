@@ -361,5 +361,16 @@
     "url": "https://dmytro-filatov-88.github.io/ant-colony-heist/",
     "repo": "https://github.com/dmytro-filatov-88/ant-colony-heist",
     "description": "Drop sugar cubes and picnic crumbs on a kitchen counter and watch hundreds of foraging physics-driven ants communicate via dynamic pheromone trails to dismantle the food and carry it back, with cute miniature foley steps and picnic ambient audio."
+  },
+  {
+    "slug": "smile-calibration",
+    "title": "Uncanny Valley Smile Calibration",
+    "category": "Absurd / Satire Game",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-24",
+    "url": "https://dmytro-filatov-88.github.io/smile-calibration/",
+    "repo": "https://github.com/dmytro-filatov-88/smile-calibration",
+    "description": "Calibrate an overly polite corporate mannequin's smile using precision calipers and sliders (corner tilt, teeth visibility, eye crinkle, unblinking intensity) before an executive handshake review. Hit the narrow zone between \"welcoming professional\" and \"sleep-paralysis demon.\""
   }
 ]
