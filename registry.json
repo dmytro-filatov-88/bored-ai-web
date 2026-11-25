@@ -372,5 +372,16 @@
     "url": "https://dmytro-filatov-88.github.io/smile-calibration/",
     "repo": "https://github.com/dmytro-filatov-88/smile-calibration",
     "description": "Calibrate an overly polite corporate mannequin's smile using precision calipers and sliders (corner tilt, teeth visibility, eye crinkle, unblinking intensity) before an executive handshake review. Hit the narrow zone between \"welcoming professional\" and \"sleep-paralysis demon.\""
+  },
+  {
+    "slug": "black-hole-accordion",
+    "title": "Black Hole Accordion",
+    "category": "Generative Art / Shaders",
+    "complexity": "complex",
+    "model": "pro",
+    "date": "2026-11-25",
+    "url": "https://dmytro-filatov-88.github.io/black-hole-accordion/",
+    "repo": "https://github.com/dmytro-filatov-88/black-hole-accordion",
+    "description": "A relativistic gravitational lensing WebGL shader simulating an accretion disk and gravitational redshift around a micro black hole. Squeeze and stretch your cursor like an accordion to compress spacetime itself, bending starry background light into glowing Einstein rings accompanied by resonant sub-bass gravitational waves."
   }
 ]
