@@ -383,5 +383,16 @@
     "url": "https://dmytro-filatov-88.github.io/black-hole-accordion/",
     "repo": "https://github.com/dmytro-filatov-88/black-hole-accordion",
     "description": "A relativistic gravitational lensing WebGL shader simulating an accretion disk and gravitational redshift around a micro black hole. Squeeze and stretch your cursor like an accordion to compress spacetime itself, bending starry background light into glowing Einstein rings accompanied by resonant sub-bass gravitational waves."
+  },
+  {
+    "slug": "existential-fortune-cookie",
+    "title": "Existential Fortune Cookie",
+    "category": "Absurd / Satire Game",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-26",
+    "url": "https://dmytro-filatov-88.github.io/existential-fortune-cookie/",
+    "repo": "https://github.com/dmytro-filatov-88/existential-fortune-cookie",
+    "description": "Crack open crispy paper-mâché fortune cookies to reveal startlingly specific, uncomfortably accurate micro-existential dread. Features crunchy snapping sound synthesis, crumb particle physics, and customizable cynicism filters."
   }
 ]
