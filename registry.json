@@ -394,5 +394,16 @@
     "url": "https://dmytro-filatov-88.github.io/existential-fortune-cookie/",
     "repo": "https://github.com/dmytro-filatov-88/existential-fortune-cookie",
     "description": "Crack open crispy paper-mâché fortune cookies to reveal startlingly specific, uncomfortably accurate micro-existential dread. Features crunchy snapping sound synthesis, crumb particle physics, and customizable cynicism filters."
+  },
+  {
+    "slug": "pigeon-flight-simulator",
+    "title": "Pidgeon Flight Simulator 1998",
+    "category": "Absurd / Interactive Comedy",
+    "complexity": "medium",
+    "model": "flash",
+    "date": "2026-11-27",
+    "url": "https://dmytro-filatov-88.github.io/pigeon-flight-simulator/",
+    "repo": "https://github.com/dmytro-filatov-88/pigeon-flight-simulator",
+    "description": "A low-poly 1998 retro flight simulator where you control a city pigeon navigating gusty urban wind tunnels between skyscrapers, stealing French fries from outdoor café tables, and dodging clumsy pedestrians while listening to compressed MIDI elevator tracks."
   }
 ]
