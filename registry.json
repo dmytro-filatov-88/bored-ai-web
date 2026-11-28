@@ -405,5 +405,16 @@
     "url": "https://dmytro-filatov-88.github.io/pigeon-flight-simulator/",
     "repo": "https://github.com/dmytro-filatov-88/pigeon-flight-simulator",
     "description": "A low-poly 1998 retro flight simulator where you control a city pigeon navigating gusty urban wind tunnels between skyscrapers, stealing French fries from outdoor café tables, and dodging clumsy pedestrians while listening to compressed MIDI elevator tracks."
+  },
+  {
+    "slug": "schrodingers-light-switch",
+    "title": "Schrödinger's Light Switch",
+    "category": "Absurd / Micro-Utility",
+    "complexity": "simple",
+    "model": "flash",
+    "date": "2026-11-28",
+    "url": "https://dmytro-filatov-88.github.io/schrodingers-light-switch/",
+    "repo": "https://github.com/dmytro-filatov-88/schrodingers-light-switch",
+    "description": "A wall-mounted light switch in quantum superposition. Flipping it toggles the room between illumination and total darkness in parallel dimensions, occasionally summoning raccoons, disco balls, or thunderstorms when uncertainty collapses."
   }
 ]

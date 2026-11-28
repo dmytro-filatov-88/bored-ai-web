@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Schrödinger's Light Switch",
-    "slug": "schrodingers-light-switch",
-    "category": "Absurd / Micro-Utility",
-    "complexity": "simple",
-    "description": "A wall-mounted light switch in quantum superposition. Flipping it toggles the room between illumination and total darkness in parallel dimensions, occasionally summoning raccoons, disco balls, or thunderstorms when uncertainty collapses."
-  },
-  {
-    "rank": 2,
     "title": "Suspicious Desk Drawer Maze",
     "slug": "suspicious-desk-drawer-maze",
     "category": "Satisfying Physics / Toy",
@@ -16,7 +8,7 @@
     "description": "Tilt a virtual messy office desk drawer to guide a rogue marble through tangles of paperclips, rubber bands, sticky notes, and half-eaten mints, featuring satisfying wooden sliding acoustics and marble collision physics."
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "Quantum Coffee Cup",
     "slug": "quantum-coffee-cup",
     "category": "Generative Art / Shaders",
@@ -24,7 +16,7 @@
     "description": "A mesmerizing WebGL fluid shader of a steaming ceramic coffee mug where the liquid surface displays realtime procedural Mandelbrot fractals and swirling vortex convection currents. Drag to stir milk into starry galaxies while ambient coffee-shop murmur and espresso machine steam hiss play."
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Infinite Office Slinky",
     "slug": "infinite-office-slinky",
     "category": "Satisfying Physics / Toy",
@@ -32,7 +24,7 @@
     "description": "Send a metallic rainbow slinky bouncing down an infinite procedural office staircase with rhythmic metallic clangs and spring oscillation physics that respond to your mouse flick velocity."
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Overly Dramatic Alarm Clock",
     "slug": "overly-dramatic-alarm-clock",
     "category": "Absurd / Audio Madness",
@@ -40,7 +32,7 @@
     "description": "A bedside alarm clock that wakes you up with symphonic gong explosions, marching band snare rolls, and air raid sirens, requiring you to violently smash or drag its snooze button across the room before it detonates."
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Generative Botanical Terrarium",
     "slug": "generative-botanical-terrarium",
     "category": "Generative Art / Zen Toy",
@@ -48,7 +40,7 @@
     "description": "A sealed glass jar containing procedural ferns, moss, and bioluminescent mushrooms that grow and branch organically over time, reacting to gentle mouse-tap condensation droplets and soothing ambient forest soundscapes."
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "Office Chair Racing Simulator",
     "slug": "office-chair-racing",
     "category": "Satisfying Physics / Arcade Toy",
@@ -56,7 +48,7 @@
     "description": "Navigate a squeaky wheeled office chair down a linoleum hallway obstacle course of stray backpacks, open file drawers, and wandering interns, managing caster drift and desk fan propulsion."
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Infinite Cat Piano",
     "slug": "infinite-cat-piano",
     "category": "Web Audio Madness",
@@ -64,7 +56,7 @@
     "description": "A virtual piano where every key press plays pitch-shifted meows, purrs, and yowls synthesized via Web Audio formants, allowing you to compose majestic feline concertos on the fly."
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Hypnotic Kinetic Pendulum Wave",
     "slug": "hypnotic-kinetic-pendulum",
     "category": "Generative Art / Shaders",
@@ -72,7 +64,7 @@
     "description": "A mesmerizing WebGL simulation of 32 uncoupled pendulums of slightly varying lengths swinging in unison to create gorgeous recurring traveling waves, Lissajous curves, and hypnotic geometric choreography."
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Existential Rubber Ducky",
     "slug": "existential-rubber-ducky",
     "category": "Absurd / Interactive Comedy",
@@ -80,7 +72,7 @@
     "description": "A bathtub rubber duck that floats alongside you while whispering uncomfortably profound philosophical questions through synthesized water-muffled quacks."
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "Haunted Fax Machine",
     "slug": "haunted-fax-machine",
     "category": "Web Audio Madness",
@@ -88,7 +80,7 @@
     "description": "Feed blank pages into an ancient beige thermal fax machine that screeches 56k handshake melodies and slowly prints cursed geometric mandalas, cryptic horoscopes, and ASCII ghosts from the 1990s."
   },
   {
-    "rank": 12,
+    "rank": 11,
     "title": "Laser Pointer Cat Chaos",
     "slug": "laser-pointer-cat-chaos",
     "category": "Satisfying Physics / Toy",
@@ -96,7 +88,7 @@
     "description": "Drag a glowing red laser dot across a living room rug while a hyperactive orange tabby physics-cat chases it with chaotic blur speeds, cartoon skids, and hilarious squeaky mew audio."
   },
   {
-    "rank": 13,
+    "rank": 12,
     "title": "Glitchy Elevator Symphony",
     "slug": "glitchy-elevator-symphony",
     "category": "Web Audio Madness",
@@ -104,7 +96,7 @@
     "description": "An elevator control panel where pressing buttons triggers warped tape-delay elevator chimes, flickering fluorescent light buzzes, and surreal announcements from alternate dimensions."
   },
   {
-    "rank": 14,
+    "rank": 13,
     "title": "Bioluminescent Coral Reef Shader",
     "slug": "bioluminescent-coral-reef",
     "category": "Generative Art / Shaders",
@@ -112,7 +104,7 @@
     "description": "A realtime WebGL raymarched underwater cavern teeming with procedural reaction-diffusion coral polyps that pulse and ripple with neon plankton trails when disturbed by your cursor currents and deep-sea sonar chimes."
   },
   {
-    "rank": 15,
+    "rank": 14,
     "title": "Bureaucratic Stamp Simulator",
     "slug": "bureaucratic-stamp-simulator",
     "category": "Absurd / Satire Game",
